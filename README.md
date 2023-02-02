@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<img src="https://img.shields.io/badge/java-red?style=plastic&logo=JavaScript&logoColor=green"/>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sungjun001&show_icons=true&theme=react)
+
 <!--
 **sungjun001/sungjun001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
